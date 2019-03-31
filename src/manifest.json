@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "ESPN College Conference",
+	"version": "0.1.0",
+	"description": "Adds conferences to the college football rankings page on ESPN",
+	"content_scripts": [
+		{
+			"css": [
+				"style.css"
+			],
+			"js": [
+				"main.js"
+			],
+			"matches": [
+				"https://www.espn.com/*"
+			]
+		}
+	]
+}

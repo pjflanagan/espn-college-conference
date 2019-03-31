@@ -1,0 +1,137 @@
+[
+	{
+		"id": 821,
+		"name": "Atlantic Coast Conference",
+		"subdivision": "FBS"
+	},
+	{
+		"id": 25354,
+		"name": "Big 12 Conference",
+		"subdivision": "FBS"
+	},
+	{
+		"id": 823,
+		"name": "Big East Conference",
+		"subdivision": "FBS"
+	},
+	{
+		"id": 827,
+		"name": "Big Ten Conference",
+		"subdivision": "FBS"
+	},
+	{
+		"id": 24312,
+		"name": "Conference USA",
+		"subdivision": "FBS"
+	},
+	{
+		"id": 99001,
+		"name": "Independent",
+		"subdivision": "FBS"
+	},
+	{
+		"id": 875,
+		"name": "Mid-American Conference",
+		"subdivision": "FBS"
+	},
+	{
+		"id": 5486,
+		"name": "Mountain West Conference",
+		"subdivision": "FBS"
+	},
+	{
+		"id": 905,
+		"name": "Pacific-10 Conference",
+		"subdivision": "FBS"
+	},
+	{
+		"id": 911,
+		"name": "Southeastern Conference",
+		"subdivision": "FBS"
+	},
+	{
+		"id": 818,
+		"name": "Sun Belt Conference",
+		"subdivision": "FBS"
+	},
+	{
+		"id": 923,
+		"name": "Western Athletic Conference",
+		"subdivision": "FBS"
+	},
+	{
+		"id": 820,
+		"name": "Atlantic 10",
+		"subdivision": "FCS"
+	},
+	{
+		"id": 825,
+		"name": "Big Sky",
+		"subdivision": "FCS"
+	},
+	{
+		"id": 826,
+		"name": "Big South",
+		"subdivision": "FCS"
+	},
+	{
+		"id": 853,
+		"name": "Gateway Football Conference",
+		"subdivision": "FCS"
+	},
+	{
+		"id": 99005,
+		"name": "Ind",
+		"subdivision": "FCS"
+	},
+	{
+		"id": 865,
+		"name": "Ivy",
+		"subdivision": "FCS"
+	},
+	{
+		"id": 871,
+		"name": "Metro Atlantic",
+		"subdivision": "FCS"
+	},
+	{
+		"id": 876,
+		"name": "Mid-Eastern",
+		"subdivision": "FCS"
+	},
+	{
+		"id": 846,
+		"name": "Northeast",
+		"subdivision": "FCS"
+	},
+	{
+		"id": 902,
+		"name": "Ohio Valley",
+		"subdivision": "FCS"
+	},
+	{
+		"id": 838,
+		"name": "Patriot",
+		"subdivision": "FCS"
+	},
+	{
+		"id": 21451,
+		"name": "Pioneer Football League",
+		"subdivision": "FCS"
+	},
+	{
+		"id": 912,
+		"name": "Southern",
+		"subdivision": "FCS"
+	},
+	{
+		"id": 914,
+		"name": "Southland",
+		"subdivision": "FCS"
+	},
+	{
+		"id": 916,
+		"name": "Southwestern",
+		"subdivision": "FCS"
+	}
+]
