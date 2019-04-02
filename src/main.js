@@ -1,19 +1,20 @@
 
-function make_body_cell(conf) {
+function make_body_cell({ isFavorite, conf }) {
 	return `
-		<td class="tight-cell Table2__td">${conf}</td>
+		<td class="tight-cell Table2__td ${isFavorite}">${conf}</td>
 	`;
 }
 
 function add_body() {
 	$('.Table2__table__wrapper').find('tr[data-idx]').each(function () {
+		const isFavorite = $(this).find('td').hasClass('is-favorite') ? 'is-favorite' : '';
 		const name = $(this).find('td a[data-clubhouse-uid] img').attr('alt');
 		const team = _.find(TEAMS, { 'name': name });
 		let conf = '';
 		if (!!team) {
 			conf = team.conference_abbr
 		}
-		$(this).append(make_body_cell(conf));
+		$(this).append(make_body_cell({ isFavorite, conf }));
 	});
 }
 
