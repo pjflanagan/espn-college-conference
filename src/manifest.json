@@ -9,10 +9,14 @@
 				"style.css"
 			],
 			"js": [
+				"package/jquery-3.3.1.min.js",
+				"package/lodash-4.14.4.core.js",
+				"team.js",
 				"main.js"
 			],
 			"matches": [
-				"https://www.espn.com/*"
+				"https://www.espn.com/college-football/rankings",
+				"http://www.espn.com/college-football/rankings"
 			]
 		}
 	]
