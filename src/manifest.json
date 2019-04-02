@@ -15,8 +15,8 @@
 				"main.js"
 			],
 			"matches": [
-				"https://www.espn.com/college-football/rankings",
-				"http://www.espn.com/college-football/rankings"
+				"https://www.espn.com/college-football/rankings/*",
+				"http://www.espn.com/college-football/rankings/*"
 			]
 		}
 	]
