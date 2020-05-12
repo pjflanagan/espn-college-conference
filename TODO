@@ -1,0 +1,13 @@
+
+
+- [ ] Add ranking change averages by poll (in an attempt to measure accuracy, Flux)
+- [ ] Add college basketball
+- [ ] Improve accuracy (the source data was old)
+
+- Flux:
+    - Sum:
+        - every change in the sidebar
+        - team previously NR = 26 - <rank>
+        - team dropped from rankings =  26 - <previous rank>
+    - Divide that total by 25 and display Flux at the top
+	- This could give us a measure of which ranking system is more accurate week after week
